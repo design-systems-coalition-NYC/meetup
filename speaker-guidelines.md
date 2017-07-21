@@ -31,9 +31,3 @@ Most events are recorded which we'll confirm this with you before hand, but we r
 ## Timing
 
 The event usually starts at 6.30pm. We ask that speakers aim to arrive at 6pm to setup and check A/V. You'll be send a calendar invite with the time and location before the event to make it easier for you to keep track.
-
-
-
-
-
-
