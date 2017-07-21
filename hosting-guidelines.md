@@ -1,11 +1,13 @@
 # Hosting a Design Systems Coalition meetup in NYC
 
-## Event summary
-The [Design Systems Coalition](https://www.meetup.com/NYC-Design-Systems-Coalition/) is a new niche meetup for people enthusiastic about design systems. This includes professionals, freelancers, designers and developers, brand designers, managers and directors, and product managers, and anyone else interested in learning more or sharing their own experiences with building design systems.
+## About us
+The [Design Systems Coalition](https://www.meetup.com/NYC-Design-Systems-Coalition/) is a niche meetup for people enthusiastic about design systems. This includes professionals, freelancers, designers and developers, brand designers, managers and directors, product managers, and anyone else interested in learning more or sharing their own experiences with building design systems.
 
-The format of the meetup is to have 3, 10 minute lightning talks on the same topic area. After all 3 talks have finished we open questions to the floor, of which any speakers can respond to. We want to stimulate discussion with these talks, but keep the majority of the time for networking and meeting other design systems enthusiasts.
+The NYC meetup is organized by [Diana Mounter](https://twitter.com/broccolini), Design Systems Manager at [GitHub](https://github.com/), [Tom Takigayama](https://twitter.com/tomtaki), Design Lead at [Justworks]([https://justworks.com](https://justworks.com/)), and [Brent Jackson](https://twitter.com/jxnblk), Principle UX developer at [Priceline.com](https://www.priceline.com/). The meetup first formed in San Francisco and has chapters popping up in cities around the globe. It was born out of the [Design Systems slack](http://designsystems.herokuapp.com/) community started by [Jina Anne](https://twitter.com/jina). Jina is a design systems advocate, former design lead on the [Lightning Design System](https://www.lightningdesignsystem.com/), and organizer of [Clarity](http://clarityconf.com/).
 
-The meetup is organized by [Diana Mounter](https://twitter.com/broccolini), who leads design systems at [GitHub](https://github.com/), [Tom Takigayama](https://twitter.com/tomtaki), design lead at [Justworks](https://justworks.com), and [Brent Jackson](https://twitter.com/jxnblk), front-end developer and author of [Basscss](http://basscss.com/) and [Rebass](http://jxnblk.com/rebass/). The meetup was born out of the [Design Systems slack](http://designsystems.herokuapp.com/) community started by [Jina Bolton](https://twitter.com/jina) who is a design lead on the Salesforce [Lightning Design System](https://www.lightningdesignsystem.com/), and runs a style guide conference called [Clarity](http://clarityconf.com/). 
+## Event format
+
+Each meetup features 3 speakers giving 10 minute lightning talks on the same topic area. After the talks have finished we kick off a panel-style Q&A session with curated questions, and then open questions to the floor. Our goal with the lightning talks and Q&A is to stimulate discussion, keeping plenty of time for networking and meeting other design systems enthusiasts. We focus each meetup on one topic area so that it's easier for speakers to create a short and focussed talk, and to ensure that over time, we cover the many areas that design systems work involves.
 
 ## Venue logistics
 - The venue should be able to accommodate minimum 75 people so that we can offer enough spaces for the event. More is better, though to start with we're keeping the meetups small, up to about 100 attendees.
