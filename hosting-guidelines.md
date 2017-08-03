@@ -13,6 +13,7 @@ Each meetup features 3 speakers giving 10 minute lightning talks on the same top
 - The venue should be able to accommodate minimum 75 people so that we can offer enough spaces for the event. More is better, though to start with we're keeping the meetups small, up to about 100 attendees.
 - AV equipement will be needed for projecting presenter slides.
 - Not required, but if you are able to record the talks so that they can be shared online after the event that would be appreciated. Please let us know before hand if you are able to do this so we can notify presenters and attendees that talks will be recorded.
+- A primary goal of Design Systems Coalition NYC is to be inclusive to the largest number of members, this means we require venues to be accessible, safe, and welcoming environments. Please read our [Code of Conduct](https://github.com/design-systems-coalition-NYC/meetup/blob/master/CODE_OF_CONDUCT.md) for more information and reach out if you have any concerns about meeting these requirements.
 
 ## Food and drink
 - Ideally we'd like hosts to provide some drinks and snacks for attendees since the event will be in the evening. Snacks should include vegan and gluten-free options, and if providing alcohol, non-alcoholic options should also be available. If the host is not able to provide food and drink please let us know and we'll see if we can find a sponsor for this.
