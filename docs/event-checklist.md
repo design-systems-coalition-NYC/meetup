@@ -1,3 +1,5 @@
+# Event checklist
+
 ## Pre host confirmation checklist
 - [ ] Send hosting guidelines
 - [ ] Check building accessibility
@@ -48,6 +50,7 @@ Topic:
     - [ ] Update meetup to say "this event will be recorded"
     - [ ] Check with speakers re recording
   - [ ] Send running sheet (1 week prior)
+  - [ ] Send slides loop
   - [ ] Confirm registration process (security & volunteers for registration)
   - [ ] Confirm seating setup
   - [ ] Check what time organizers & speakers can arrive for setup
