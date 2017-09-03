@@ -1,4 +1,6 @@
-# Hosting a Design Systems Coalition meetup in NYC
+# Hosting guidelines
+
+Guidelines for hosting a Design Systems Coalition NYC meetup
 
 ## About us
 The [Design Systems Coalition](https://www.meetup.com/NYC-Design-Systems-Coalition/) is a niche meetup for people enthusiastic about design systems. This includes professionals, freelancers, designers and developers, brand designers, managers and directors, product managers, and anyone else interested in learning more or sharing their own experiences with building design systems.
