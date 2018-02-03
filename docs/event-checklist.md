@@ -25,11 +25,12 @@ Topic:
   - [ ] Speaker 1
   - [ ] Speaker 2
   - [ ] Speaker 3
-- [ ] **Announce speakers & RSVP's** (ideally 3 weeks prior)
+- [ ] **Announce speakers & RSVP's**
+  - [ ] RSVP's open on meetup (ideally 4-6 weeks prior)
+  - [ ] Tweet RSVP's
   - [ ] Meetup event updated with speakers
   - [ ] Announce event with speakers on website, archive previous event
-  - [ ] RSVP's open on meetup (3 weeks prior)
-  - [ ] Tweet speakers & rsvp's
+  - [ ] Tweet speakers
 - [ ] **Speaker prep**
   - [ ] Send calendar invite for event with time and location
   - [ ] 1:1 with speaker to prep for talk
@@ -40,12 +41,17 @@ Topic:
   - [ ] Book call with all speakers
   - [ ] Run through talks and panel questions with speakers (1 week prior)
 - [ ] **Reminders**
-  - [ ] Increase RSVP limit (1 week out)
-  - [ ] Tweet reminder about upcoming event (1 week prior)
+  - [ ] Increae RSVP limit 2 weeks out
+  - [ ] Tweet Event reminder w/ link to RSVP
+  - [ ] Increase RSVP limit 1 week out
+  - [ ] Tweet reminder about upcoming event 1 week prior
   - [ ] Send reminder to update RSVP weekend prior to event
-  - [ ] Tweet update RSVP reminder
+  - [ ] Tweet update RSVP reminder a few days before event
   - [ ] Increase RSVP limit 1 day prior
+  - [ ] Tweet event reminder morning of event
 - [ ] **Host prep**
+  - [ ] Confirm AV setup
+  - [ ] Send slide loop template
   - [ ] Confirm whether event will be recorded, if so:
     - [ ] Update meetup to say "this event will be recorded"
     - [ ] Check with speakers re recording
